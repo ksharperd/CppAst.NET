@@ -369,3 +369,6 @@ tmp/
 
 # Remove artifacts produced by dotnet-releaser
 artifacts-dotnet-releaser/
+
+**/MSBuild_Logs
+**/launchSettings.json
